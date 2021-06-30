@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**bebyakinb/bebyakinb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Upper--Intermediate-blue)
+![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
+![SQL](https://img.shields.io/badge/SQL-Upper--Intermediate-blue)
+![Algorithms](https://img.shields.io/badge/Algorithms-Intermediate-orange)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-9cf)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mostly write **C++** these days. Here are a few interesting educational **projects** (written in **C**, **C++**) that worth mentioning:
+
+- [CPP_Piscine](https://github.com/bebyakinb/CPP_Piscine) - An intensive C++ piscine (course)
+- [CUB3D]() - First-person 3D representation of a maze using raycasting, similar to Wolfenstein 3D (1992).
+- [minishell]() - It's a minimum viable version of a real shell. The main goal is to have a good understanding of process creation and synchronisation using the C programmming language.
+- [ft_server]() - Sys-Admin project. The aim is to discover Docker and setup a webserver.
+- [ft_services]() - Webserver cluster running with Docker containers and Kubernetes
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bebyakinb)](https://github.com/anuraghazra/github-readme-stats)
