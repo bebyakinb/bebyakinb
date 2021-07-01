@@ -3,7 +3,7 @@
 
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Upper--Intermediate-blue)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
-![SQL](https://img.shields.io/badge/SQL-Upper--Intermediate-blue)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-9cf)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Intermediate-orange)
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-9cf)
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
