@@ -8,7 +8,7 @@
 ![Algorithms](https://img.shields.io/badge/Algorithms-Intermediate-orange)
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-9cf)
 
-I mostly write **C++** these days. Here are a few interesting educational **projects** (written in **C**, **C++**) that worth mentioning:
+I mostly write **C++/Python** these days. Here are a few interesting educational **projects** (written in **C**, **C++**) that worth mentioning:
 
 - [CPP_Piscine](https://github.com/bebyakinb/CPP_Piscine) - An intensive C++ piscine (course)
 - [CUB3D](https://github.com/bebyakinb/cub3D) - First-person 3D representation of a maze using raycasting, similar to Wolfenstein 3D (1992).
