@@ -11,7 +11,7 @@
 I mostly write **C++** these days. Here are a few interesting educational **projects** (written in **C**, **C++**) that worth mentioning:
 
 - [CPP_Piscine](https://github.com/bebyakinb/CPP_Piscine) - An intensive C++ piscine (course)
-- [CUB3D]() - First-person 3D representation of a maze using raycasting, similar to Wolfenstein 3D (1992).
+- [CUB3D](https://github.com/bebyakinb/cub3D) - First-person 3D representation of a maze using raycasting, similar to Wolfenstein 3D (1992).
 - [minishell]() - It's a minimum viable version of a real shell. The main goal is to have a good understanding of process creation and synchronisation using the C programmming language.
 - [ft_server]() - Sys-Admin project. The aim is to discover Docker and setup a webserver.
 - [ft_services]() - Webserver cluster running with Docker containers and Kubernetes
