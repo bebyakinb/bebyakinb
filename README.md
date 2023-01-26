@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 
-
+<!--
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-9cf)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Intermediate-orange)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Intermediate-blue)
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-9cf)
-
+-->
 I mostly write **Python/SQL** these days. Here are a few interesting **projects** that worth mentioning:
 
 - [Assignments for Analyst position](https://github.com/bebyakinb/test_assignments_Analyst) - some test assignment for Product Analyst position
